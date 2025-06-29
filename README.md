@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.png" alt="Anisha Kumari Banner" width="100%" />
+  <img src="https://i.imgur.com/yourNewImage.png" alt="Anisha Kumari Banner" width="100%" />
 </p>
 
 # 💫 Hi, I'm Anisha Kumari!
