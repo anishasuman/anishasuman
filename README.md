@@ -7,8 +7,8 @@
 ---
 
 ## 🔧 Tech Stack I'm Working With:
-- 💻 Java, C++
-- ☁️ Cloud Basics (AWS, Azure – learning phase)
+- 💻 Java, C++ , Python , HTML-CSS
+- ☁️ Cloud Basics (AWS – learning phase)
 - 🛠️ Git & GitHub
 
 ---
