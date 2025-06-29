@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/yourNewImage.png" alt="Anisha Kumari Banner" width="100%" />
-</p>
-
 # 💫 Hi, I'm Anisha Kumari!
 
 🎓 3rd Year BTech Student | 🌥️ Cloud Computing Enthusiast  
