@@ -22,14 +22,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  
-  <!-- Animated Intro with Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=F49AC2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Anisha+Kumari.;BTech+CS+Student+%7C+Cloud+Enthusiast.;Java+Lover+%7C+Code+%26+Coffee+%E2%98%95%EF%B8%8F;Building+Projects+with+Purpose!" />
-
-  <br><br>
-
- <h2 align="center">✨ Anisha Kumari's GitHub Stats ✨</h2>
+<h2 align="center">✨ Anisha Kumari's GitHub Stats ✨</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=F49AC2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Anisha+Kumari.;BTech+CS+Student+%7C+Cloud+Explorer.;Java+Lover+%7C+Code+%26+Coffee+%E2%98%95%EF%B8%8F;Building+Projects+with+Purpose!" alt="Typing SVG" />
@@ -46,14 +39,25 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=rose_pine&langs_count=8" alt="Top Languages" />
 </p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anishasuman&theme=gruvbox" />
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&count_private=true&theme=gruvbox&hide=issues&border_radius=10" />
+  <br>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anishasuman&theme=gruvbox&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+  <br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishasuman&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anishasuman&theme=gruvbox" />
+
+  <br><br>
+
+  <img src="https://activity-graph.herokuapp.com/graph?username=anishasuman&theme=react-dark&hide_border=true&area=true" />
+
+</p>
 ---
 
-<h3 align="center">📈 Contribution Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishasuman&theme=rose_pine&area=true&hide_border=true&radius=10" alt="Contribution Graph" />
-</p>
 
 
 
