@@ -27,6 +27,23 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=F49AC2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Anisha+Kumari.;BTech+CS+Student+%7C+Cloud+Explorer.;Java+Lover+%7C+Code+%26+Coffee+%E2%98%95%EF%B8%8F;Building+Projects+with+Purpose!" alt="Typing SVG" />
 </p>
+-
+
+<h2 align="center">🌟✨ <i>Anisha Kumari's GitHub Stats</i> ✨🌟</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=3500&pause=1000&color=F49AC2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Anisha+Kumari!;B.Tech+CS+Student+%7C+Cloud+Explorer+%E2%98%81%EF%B8%8F;Java+Lover+%7C+Code+%26+Coffee+%E2%98%95%EF%B8%8F;Building+Projects+with+Purpose+%F0%9F%92%BC" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&theme=tokyonight&border_radius=15&title_color=F49AC2&icon_color=F49AC2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishasuman&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=F49AC2&fire=F49AC2" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anishasuman&theme=tokyonight&no-frame=true&margin-w=15&title=Followers,Stars,Commit,Repositories,PullRequest" />
+</p>
+
 
 
 ## 🚀 Tech Overview & GitHub Analytics
@@ -39,36 +56,6 @@
 
 ### 🗂️ Most Used Languages by Repositories
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishasuman&theme=github&background=ffffff&title_color=000000&text_color=333333" alt="Repos per Language" />
-
--
-
-## ✨ Anisha's GitHub World — A Glimpse into Code, Coffee & Curiosity ☕
-
-### 🔠 Top Languages I Code In
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=default&bg_color=FDF6F0&title_color=FF6D60&text_color=444444&icon_color=FF9671&border_radius=12"
-  alt="Top Languages"
-  style="border-radius: 12px; box-shadow: 2px 2px 8px #e0e0e0;" 
-/>
-
----
-
-### 📊 GitHub Activity Stats
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&count_private=true&include_all_commits=true&theme=default&bg_color=FFFDF7&title_color=6C5DD3&text_color=444444&icon_color=FF9671&border_radius=12"
-  alt="Anisha GitHub Stats"
-  style="border-radius: 12px; box-shadow: 2px 2px 8px #ccc;" 
-/>
-
----
-
-### 🗂️ Languages Across My Repositories
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishasuman&theme=default&background=FFFFFF&title_color=6C5DD3&text_color=333333&border_color=DDDDDD"
-  alt="Repos per Language"
-  style="border-radius: 12px; box-shadow: 2px 2px 8px #ddd;" 
-/>
-
 
 
 
