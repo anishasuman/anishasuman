@@ -32,15 +32,13 @@
 
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anishasuman&theme=rose_pine&hide_border=true&fire=FF6AC1&ring=E0DEF4&currStreakLabel=FF6AC1" alt="GitHub Streak" />
-</p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=rose_pine&langs_count=8" alt="Top Languages" />
 </p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anishasuman&theme=gruvbox" />
-  <br>
+
   
   <img src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&count_private=true&theme=gruvbox&hide=issues&border_radius=10" />
   <br>
