@@ -29,12 +29,17 @@
 </p>
 
 
+## 🚀 Tech Overview & GitHub Analytics
+
 ### 🔤 Top Languages Used
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=tokyonight&langs_count=8&border_radius=8" alt="Top Languages Used" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=light&langs_count=8&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=4CAF50&border_radius=10" alt="Top Languages Used" />
+
 ### 📊 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&count_private=true&theme=solarized_light&hide=issues&border_radius=10" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&count_private=true&theme=light&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=F9A826&border_radius=10" alt="GitHub Stats" />
+
 ### 🗂️ Most Used Languages by Repositories
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishasuman&theme=github&background=ffffff&title_color=000000&text_color=333333" alt="Repos per Language" />
+
 
 
 ## 🌐 Connect with Me:
