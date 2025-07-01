@@ -40,6 +40,36 @@
 ### 🗂️ Most Used Languages by Repositories
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishasuman&theme=github&background=ffffff&title_color=000000&text_color=333333" alt="Repos per Language" />
 
+-
+
+## ✨ Anisha's GitHub World — A Glimpse into Code, Coffee & Curiosity ☕
+
+### 🔠 Top Languages I Code In
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=default&bg_color=FDF6F0&title_color=FF6D60&text_color=444444&icon_color=FF9671&border_radius=12"
+  alt="Top Languages"
+  style="border-radius: 12px; box-shadow: 2px 2px 8px #e0e0e0;" 
+/>
+
+---
+
+### 📊 GitHub Activity Stats
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&count_private=true&include_all_commits=true&theme=default&bg_color=FFFDF7&title_color=6C5DD3&text_color=444444&icon_color=FF9671&border_radius=12"
+  alt="Anisha GitHub Stats"
+  style="border-radius: 12px; box-shadow: 2px 2px 8px #ccc;" 
+/>
+
+---
+
+### 🗂️ Languages Across My Repositories
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishasuman&theme=default&background=FFFFFF&title_color=6C5DD3&text_color=333333&border_color=DDDDDD"
+  alt="Repos per Language"
+  style="border-radius: 12px; box-shadow: 2px 2px 8px #ddd;" 
+/>
+
+
 
 
 ## 🌐 Connect with Me:
