@@ -31,7 +31,6 @@
 
 ### 🔤 Top Languages Used
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=tokyonight&langs_count=8&border_radius=8" alt="Top Languages Used" />
-
 ### 📊 My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&count_private=true&theme=solarized_light&hide=issues&border_radius=10" alt="GitHub Stats" />
 ### 🗂️ Most Used Languages by Repositories
