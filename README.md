@@ -47,11 +47,11 @@
   <br>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishasuman&theme=gruvbox" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anishasuman&theme=gruvbox" />
+ 
 
   <br><br>
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=anishasuman&theme=react-dark&hide_border=true&area=true" />
+  
 
 </p>
 ---
