@@ -31,9 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=rose_pine&langs_count=8" alt="Top Languages" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&count_private=true&theme=gruvbox&hide=issues&border_radius=10" />
-  <br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anishasuman&theme=gruvbox&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
-  <br>
+ 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishasuman&theme=gruvbox" />
  <br><br>
 </p>
