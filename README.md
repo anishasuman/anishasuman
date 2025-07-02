@@ -36,17 +36,13 @@
 ### 📊 My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&count_private=true&theme=light&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=F9A826&border_radius=10" alt="GitHub Stats" />
 
+### 🗂️ Most Used Languages by Repositories
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
- 
- 
-</p>
-
-
-### 🗂️ Most Used Languages by Repositories
+ </p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishasuman&theme=github&background=ffffff&title_color=000000&text_color=333333" alt="Repos per Language" />
 
 
