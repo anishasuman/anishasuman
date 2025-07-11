@@ -27,10 +27,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=3500&pause=1000&color=F49AC2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Anisha+Kumari!;B.Tech+CS+Student+%7C+Cloud+Explorer+%E2%98%81%EF%B8%8F;Java+Lover+%7C+Code+%26+Coffee+%E2%98%95%EF%B8%8F;Building+Projects+with+Purpose+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
-<h2 align="center">🚀 Currently Working On</h2>
+<h2 align="center">👩‍💻 Focus Mode On</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450" alt="Girl Coding">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" alt="Anime Girl Coding">
 </p>
+
 
 ## 🚀 Tech Overview & GitHub Analytics
 
