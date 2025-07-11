@@ -29,11 +29,8 @@
 </p>
 <h2 align="center">🚀 Currently Working On</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="450" alt="Girl Coding">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450" alt="Girl Coding">
 </p>
-
-
-
 
 ## 🚀 Tech Overview & GitHub Analytics
 
