@@ -29,8 +29,9 @@
 </p>
 <h2 align="center">🚀 Currently Working On</h2>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450" alt="Working">
+  <img src="https://cdn.dribbble.com/users/253870/screenshots/1802833/girl-working.gif" width="450" alt="Girl Working">
 </p>
+
 
 
 ## 🚀 Tech Overview & GitHub Analytics
