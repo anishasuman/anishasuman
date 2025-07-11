@@ -29,8 +29,9 @@
 </p>
 <h2 align="center">🚀 Currently Working On</h2>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/253870/screenshots/1802833/girl-working.gif" width="450" alt="Girl Working">
+  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="450" alt="Girl Coding">
 </p>
+
 
 
 
