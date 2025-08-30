@@ -38,10 +38,7 @@
 ### 🔤 Top Languages Used
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=light&langs_count=8&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=4CAF50&border_radius=10" alt="Top Languages Used" />
 
-### 📊 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&count_private=true&theme=light&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=F9A826&border_radius=10" alt="GitHub Stats" />
-## 🔥 Current GitHub Streak
-
+### 🔥 Current GitHub Streak
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=anishasuman&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=9AA4B2&dates=6B7280"
