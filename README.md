@@ -35,39 +35,61 @@
 
 ---
 
-//new 
-import { useState } from "react";
-import { Flame } from "lucide-react";
 
-export default function StreakCounter() {
-  const [streak, setStreak] = useState(5); // example streak value
+import { useState } from "react";
+import { motion } from "framer-motion";
+import { Flame, Calendar, Star } from "lucide-react";
+
+export default function StreakTracker() {
+  const [streak, setStreak] = useState(7); // current streak
+  const [bestStreak, setBestStreak] = useState(15); // best streak
 
   return (
-    <div className="flex items-center justify-center h-screen bg-gradient-to-br from-orange-100 to-yellow-100">
-      <div className="bg-white shadow-lg rounded-2xl px-6 py-4 flex items-center gap-4 hover:scale-105 transition-transform">
-        
-        {/* Flame Icon */}
-        <div className="p-3 bg-orange-200 rounded-full shadow-inner">
-          <Flame className="text-orange-600 w-8 h-8" />
-        </div>
-
-        {/* Streak Info */}
-        <div>
-          <h2 className="text-xl font-bold text-gray-800">🔥 Streak</h2>
-          <p className="text-3xl font-extrabold text-orange-600">{streak} Days</p>
-        </div>
-
-        {/* Button to increase streak */}
-        <button
-          onClick={() => setStreak(streak + 1)}
-          className="ml-auto bg-orange-500 hover:bg-orange-600 text-white px-4 py-2 rounded-xl font-medium shadow-md"
+    <div className="flex justify-center items-center min-h-screen bg-gradient-to-br from-orange-100 to-yellow-200">
+      <motion.div
+        initial={{ scale: 0.8, opacity: 0 }}
+        animate={{ scale: 1, opacity: 1 }}
+        transition={{ duration: 0.5 }}
+        className="bg-white rounded-2xl shadow-xl p-6 w-80 text-center"
+      >
+        {/* Streak Icon */}
+        <motion.div
+          animate={{ rotate: [0, -5, 5, 0] }}
+          transition={{ repeat: Infinity, duration: 2 }}
+          className="flex justify-center"
         >
-          +1
-        </button>
-      </div>
+          <Flame className="text-orange-500 w-14 h-14" />
+        </motion.div>
+
+        {/* Current Streak */}
+        <h1 className="text-4xl font-bold mt-4 text-gray-800">{streak} 🔥</h1>
+        <p className="text-gray-500 text-sm">Current Streak</p>
+
+        {/* Best Streak */}
+        <div className="flex justify-between mt-6 text-gray-700">
+          <div className="flex items-center space-x-2">
+            <Calendar className="w-5 h-5 text-blue-500" />
+            <span className="text-sm">7 Days Active</span>
+          </div>
+          <div className="flex items-center space-x-2">
+            <Star className="w-5 h-5 text-yellow-500" />
+            <span className="text-sm">Best: {bestStreak} Days</span>
+          </div>
+        </div>
+
+        {/* Button */}
+        <motion.button
+          whileTap={{ scale: 0.9 }}
+          className="mt-6 w-full py-2 bg-orange-500 text-white font-semibold rounded-xl shadow-md hover:bg-orange-600 transition"
+          onClick={() => setStreak(streak + 1)}
+        >
+          + Add Day
+        </motion.button>
+      </motion.div>
     </div>
   );
 }
+
 
 
 ### 🔤 Top Languages Used
