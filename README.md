@@ -35,6 +35,41 @@
 
 ---
 
+//new 
+import { useState } from "react";
+import { Flame } from "lucide-react";
+
+export default function StreakCounter() {
+  const [streak, setStreak] = useState(5); // example streak value
+
+  return (
+    <div className="flex items-center justify-center h-screen bg-gradient-to-br from-orange-100 to-yellow-100">
+      <div className="bg-white shadow-lg rounded-2xl px-6 py-4 flex items-center gap-4 hover:scale-105 transition-transform">
+        
+        {/* Flame Icon */}
+        <div className="p-3 bg-orange-200 rounded-full shadow-inner">
+          <Flame className="text-orange-600 w-8 h-8" />
+        </div>
+
+        {/* Streak Info */}
+        <div>
+          <h2 className="text-xl font-bold text-gray-800">🔥 Streak</h2>
+          <p className="text-3xl font-extrabold text-orange-600">{streak} Days</p>
+        </div>
+
+        {/* Button to increase streak */}
+        <button
+          onClick={() => setStreak(streak + 1)}
+          className="ml-auto bg-orange-500 hover:bg-orange-600 text-white px-4 py-2 rounded-xl font-medium shadow-md"
+        >
+          +1
+        </button>
+      </div>
+    </div>
+  );
+}
+
+
 ### 🔤 Top Languages Used
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=light&langs_count=8&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=4CAF50&border_radius=10" alt="Top Languages Used" />
 
