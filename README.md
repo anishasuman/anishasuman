@@ -45,11 +45,6 @@
     alt="GitHub Streak for anishasuman"
   />
 </p>
-## 🔥 Current GitHub Streak  
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=anishasuman&theme=dark&hide_border=true&background=C89BC3&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=000000&dates=000000" alt="GitHub Streak for anishasuman" />
-
-
 
 ### 🗂️ Most Used Languages by Repositories
 <p align="left">
