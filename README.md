@@ -38,6 +38,13 @@
 ### 🔤 Top Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&langs_count=6&theme=radical)
 
+### 🛠Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,vscode,mysql" />
+</p>
+
+---
+
 
 ### 🔥 Current GitHub Streak
   
