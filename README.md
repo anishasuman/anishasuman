@@ -39,7 +39,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&langs_count=6&theme=radical)
 
 
-🔥 **GitHub Streak**
+### 🔥 Current GitHub Streak
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishasuman&theme=radical)
 
@@ -47,14 +47,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=anishasuman&label=Profile%20views&color=0e75b6&style=flat)
 
-
-### 🔥 Current GitHub Streak
-<p align="left">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=anishasuman&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=9AA4B2&dates=6B7280"
-    alt="GitHub Streak for anishasuman"
-  />
-</p>
 
 ### 🗂️ Most Used Languages by Repositories
 <p align="left">
