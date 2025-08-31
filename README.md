@@ -37,6 +37,9 @@
 
 ### 🔤 Top Languages Used
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=light&langs_count=8&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=4CAF50&border_radius=10" alt="Top Languages Used" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&langs_count=6&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&langs_count=8&theme=dracula)
 
 ### 🔥 Current GitHub Streak
 <p align="left">
