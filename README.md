@@ -36,30 +36,12 @@
 ---
 
 ### 🔤 Top Languages Used
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=light&langs_count=8&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=4CAF50&border_radius=10" alt="Top Languages Used" />
-## 📊 Top Languages Used (All)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&langs_count=6&theme=radical)
 
----
-
-## 📊 Top Languages Used (Java Focus)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&hide=html,css&layout=compact&theme=tokyonight)
-
----
 
 🔥 **GitHub Streak**
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishasuman&theme=radical)
-
----
-
-📈 **GitHub Stats**
-
-![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&theme=radical)
-
----
 
 👀 **Profile Views**
 
@@ -81,7 +63,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
  </p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishasuman&theme=github&background=ffffff&title_color=000000&text_color=333333" alt="Repos per Language" />
+
 
 ---
 
