@@ -37,13 +37,34 @@
 
 ### 🔤 Top Languages Used
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=light&langs_count=8&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=4CAF50&border_radius=10" alt="Top Languages Used" />
-## 📊 Top Languages Used
+## 📊 Top Languages Used (All)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&langs_count=6&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=tokyonight)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&langs_count=8&theme=dracula)
+## 📊 Top Languages Used (Java Focus)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&hide=html,css&layout=compact&theme=tokyonight)
+
+---
+
+🔥 **GitHub Streak**
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishasuman&theme=radical)
+
+---
+
+📈 **GitHub Stats**
+
+![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&theme=radical)
+
+---
+
+👀 **Profile Views**
+
+![Profile views](https://komarev.com/ghpvc/?username=anishasuman&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ### 🔥 Current GitHub Streak
 <p align="left">
