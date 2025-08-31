@@ -59,18 +59,33 @@
 
 ---
 
-## 🌐 Connect with Me:  
+## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anisha-kumari-68522426a/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/anisha77suman191)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/anisha_23)  
 <p align="center">
-  <a href="https://leetcode.com/u/anisha77suman1980/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/anisha-kumari-68522426a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/anisha77suman191" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/anisha_23" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/anisha77suman1980/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <!-- Email -->
   <a href="mailto:anisha77suman1980@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Let's+Connect+and+Grow+Together!;Follow+my+LeetCode+%26+DSA+Journey+🚀;Always+Open+for+Collaboration+🤝" alt="Typing Animation" />
+</p>
