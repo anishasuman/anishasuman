@@ -68,7 +68,7 @@
 
 ### 🔥 Current GitHub Streak
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anishasuman&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anishasuman&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 
