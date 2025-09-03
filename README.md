@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anisha Kumari!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=ff79c6&lines=Cloud+Computing+Enthusiast;3rd+Year+BTech+Student;Java+%7C+C%2B%2B+%7C+Python+Learner;Exploring+AWS+and+Cloud+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=☁️+Cloud+Computing+Enthusiast;🎓+3rd+Year+BTech+Student;💻+Java+%7C+C%2B%2B+%7C+Python;🚀+Exploring+AWS+and+Cloud+Tech)](https://git.io/typing-svg)
 
 
 ## 🛠 Tech Stack
