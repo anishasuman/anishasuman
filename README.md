@@ -1,22 +1,22 @@
-# 💫 Hi, I'm Anisha Kumari!  
+# 👋 Hi, I'm Anisha Kumari!
 
-🎓 3rd Year BTech Student | 🌥️ Cloud Computing Enthusiast  
-💡 Passionate about solving problems and exploring new technologies  
-🚀 Currently learning programming and diving into cloud use cases  
+🎓 **3rd Year BTech Student** | ☁️ **Cloud Computing Enthusiast**  
+💡 Passionate about solving problems & exploring new technologies  
+🚀 Currently learning **programming + cloud use cases**  
 
 ---
 
-## 🔧 Tech Stack I'm Working With:
-- 💻 Java, C++, Python, HTML-CSS  
-- ☁️ Cloud Basics (AWS – learning phase)  
-- 🛠️ Git & GitHub  
+## 🛠 Tech Stack
+- 💻 **Languages**: Java, C++, Python, HTML-CSS  
+- ☁️ **Cloud**: AWS (learning phase)  
+- 🛠 **Tools**: Git, GitHub  
 
 ---
 
 ## 📌 Current Focus
-- 📚 Daily Java & DSA Practice  
-- 🌐 Building strong problem-solving skills  
-- ☁️ Exploring real-world cloud applications  
+- 📚 Daily **Java & DSA Practice**  
+- 🌍 Building **problem-solving skills**  
+- ☁️ Exploring **real-world cloud applications**  
 
 ---
 
