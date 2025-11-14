@@ -5,9 +5,9 @@
 
 
 ## 🛠 Tech Stack
-- 💻 **Languages**: Java, C++, Python, HTML-CSS  
+- 💻 **Languages**: Java,Python,HTML-CSS,JS  
 - ☁️ **Cloud**: AWS (learning phase)  
-- 🛠 **Tools**: Git, GitHub  
+- 🛠 **Tools**: Git, GitHub , Figma   
 
 ---
 
