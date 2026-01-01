@@ -9,7 +9,7 @@
 - ☁️ **Cloud**: AWS (learning phase)  
 - 🛠 **Tools**: Git, GitHub , Figma   
 
----
+--
 
 ## 📌 Current Focus
 - 📚 Daily **Java & DSA Practice**  
