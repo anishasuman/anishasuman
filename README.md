@@ -37,6 +37,20 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&langs_count=6&theme=radical)
 
 
+## 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-1E1E1E?style=for-the-badge&logo=vite&logoColor=646CFF)
+
+## 🛠 Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js" />
+</p>
+
+
+
 ### 🛠 Tools
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank">
