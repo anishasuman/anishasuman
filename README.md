@@ -79,12 +79,7 @@ I love exploring new technologies and building projects that improve my skills e
 </p>
 
 ---
---
-<p align="center">
-  <img src="https://img.shields.io/badge/React-Framework-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-UI-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Vite-Build_Tool-1E1E1E?style=for-the-badge&logo=vite&logoColor=646CFF" />
-</p>
+
 
 ## 👀 Profile Views
 <p align="center">
