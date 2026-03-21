@@ -1,11 +1,15 @@
-<h1 align="center">👋 Hi, I'm Anisha Kumari</h1>
+<h1 align="center">
+  <span style="color:#0A2A66; font-family:cursive;">
+    ✨ Hi, I'm Anisha Kumari ✨
+  </span>
+</h1>
 
 <p align="center">
   🚀 AI | Cloud | Full Stack Developer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=☁️+Cloud+Computing+Enthusiast;🎓+B.Tech+CSE+Student;💻+Java+%7C+Python+%7C+MERN;🚀+Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=0A2A66&center=true&vCenter=true&width=750&lines=☁️+Cloud+Computing+Enthusiast;🎓+B.Tech+CSE+Student;💻+Java+%7C+Python+%7C+MERN;🚀+Building+Real+World+Projects" />
 </p>
 
 ---
