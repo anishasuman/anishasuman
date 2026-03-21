@@ -1,131 +1,98 @@
-# 👋 Hi, I'm Anisha Kumari!!
+<h1 align="center">👋 Hi, I'm Anisha Kumari</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&font=Pacifico&lines=☁️+𝐂𝐥𝐨𝐮𝐝+𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠+𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭;🎓+𝓑𝓣𝓮𝓬𝓱+3rd+𝓨𝓮𝓪𝓻+𝓢𝓽𝓾𝓭𝓮𝓷𝓽;💻+𝐉𝐚𝐯𝐚+%7C+%7C+𝐏𝐲𝐭𝐡𝐨𝐧;🚀+𝓔𝔁𝓹𝓵𝓸𝓻𝓲𝓷𝓰+𝐀𝐖𝐒+𝓪𝓷𝓭+𝓒𝓵𝓸𝓾𝓭+𝓣𝓮𝓬𝓱" alt="Typing SVG" />
-  </a>
+  🚀 AI | Cloud | Full Stack Developer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=☁️+Cloud+Computing+Enthusiast;🎓+B.Tech+CSE+Student;💻+Java+%7C+Python+%7C+MERN;🚀+Building+Real+World+Projects" />
 </p>
 
 ---
 
 ## 💖 About Me
-✨ I'm **Anisha Kumari**, a B.Tech CSE student passionate about **Cloud Computing ☁️**, **Java**, and solving problems through code.  
-I love exploring new technologies and building projects that improve my skills every day 🚀  
+✨ I'm a **B.Tech CSE student** passionate about building real-world applications using  
+☁️ Cloud Computing | 💻 Full Stack Development | 🚀 Problem Solving  
+
+- 🎯 Focused on **placements & real-world skills**
+- 🔥 Practicing **DSA daily**
+- ☁️ Exploring **AWS, Docker & Kubernetes**
+- 💡 Love turning ideas into projects
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-- **Java**, **Python**
-- **HTML5**, **CSS3**, **JavaScript**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
 
-### ☁️ Cloud
-- **AWS** (learning phase)
+### 🚀 Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
+</p>
 
-### 🧩 Tools
-- **Git**, **GitHub**, **Figma**
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" />
+</p>
 
 ---
 
 ## 📌 Current Focus
-✅ Daily **Java & DSA Practice**  
-✅ Building **problem-solving skills**  
-✅ Exploring **real-world cloud applications**  
+- 🚀 Building **Smart Event & Job Portal (AI + Cloud Project)**
+- 📈 Improving **DSA + System Design**
+- ☁️ Learning **Cloud Deployment & DevOps**
 
 ---
 
-## 📊 GitHub Stats  
-
-<h2 align="center">🌟✨ <i>Anisha Kumari's GitHub Stats</i> ✨🌟</h2>  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=3500&pause=1000&color=F49AC2&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Anisha+Kumari!;B.Tech+CS+Student+%7C+Cloud+Explorer+%E2%98%81%EF%B8%8F;Java+Lover+%7C+Code+%26+Coffee+%E2%98%95%EF%B8%8F;Building+Projects+with+Purpose+%F0%9F%92%BC" alt="Typing SVG" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
-<h2 align="center">👩‍💻 Focus Mode On</h2>  
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" alt="Anime Girl Coding">
-</p>  
+  <img src="https://streak-stats.vercel.app?user=anishasuman&theme=radical&hide_border=true" />
+</p>
 
----
-
-## 🔤 Top Languages Used
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&langs_count=6&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🛠️ Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js&perline=12" />
-</p>
+## 🧠 Highlight Project
 
----
+🚀 **Smart Event & Job Portal**  
+- AI-powered platform  
+- Real-time updates using Kafka  
+- Cloud deployment ready  
+- MERN + DevOps  
 
-## 🧰 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,vscode,mysql&perline=12" />
-</p>
-
----
-
-## 🔥 Current GitHub Streak
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.vercel.app?user=anishasuman&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishasuman&label=Profile%20views&color=ff69b4&style=flat" />
-</p>
-
----
-
-## 🗂️ Most Used Languages by Repositories
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+👉 *(Add project link here once deployed)*
 
 ---
 
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anisha-kumari-68522426a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/anisha-kumari-68522426a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.hackerrank.com/profile/anisha77suman191" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-
-  <a href="https://www.codechef.com/users/anisha_23" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/u/anisha77suman1980/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/anisha77suman1980/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
   <a href="mailto:anisha77suman1980@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=Let's+Connect+and+Grow+Together!;Follow+my+LeetCode+%26+DSA+Journey+🚀;Always+Open+for+Collaboration+🤝" alt="Typing Animation" />
+  💖 <b>“Code. Build. Learn. Repeat.”</b> 💖
 </p>
-
-⭐ If you like my profile, consider following me — it motivates me a lot!
