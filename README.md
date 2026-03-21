@@ -62,19 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
-
-## 🧠 Highlight Project
-
-🚀 **Smart Event & Job Portal**  
-- AI-powered platform  
-- Real-time updates using Kafka  
-- Cloud deployment ready  
-- MERN + DevOps  
-
-👉 *(Add project link here once deployed)*
-
----
 
 ## 🌐 Connect with Me  
 
