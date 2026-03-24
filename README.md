@@ -30,7 +30,7 @@
 
 ## 🌸 About Me
 
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="320" alt="Coding gif" style="border-radius: 12px;"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding gif"/>
 
 ```yaml
 name: Anisha Kumari
