@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2A66,50:1a4db3,100:F49AC2&height=200&section=header&text=Anisha%20Kumari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20Cloud%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=twinkling"/>
 
 <!-- Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3500&pause=1000&color=0A2A66&center=true&vCenter=true&width=750&lines=☁️+Cloud+Computing+Enthusiast;🎓+B.Tech+CSE+Student+%7C+MERN+Stack;💡+Building+AI-Powered+Real+World+Projects;🚀+Java+%7C+Python+%7C+DSA+Every+Day;✨+Code.+Build.+Learn.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=0A2A66&center=true&vCenter=true&repeat=true&width=750&lines=%E2%98%81%EF%B8%8F+Cloud+Computing+Enthusiast;%F0%9F%8E%93+B.Tech+CSE+Student+%7C+MERN+Stack;%F0%9F%92%A1+Building+AI-Powered+Real+World+Projects;%F0%9F%9A%80+Java+%7C+Python+%7C+DSA+Every+Day;%E2%9C%A8+Code.+Build.+Learn.+Repeat." alt="Typing SVG" />
 
 <br/>
 
