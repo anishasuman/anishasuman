@@ -1,90 +1,134 @@
-<h1 align="center">
-  <span style="color:#0A2A66; font-family:cursive;">
-    ✨ Hi, I'm Anisha Kumari ✨
-  </span>
-</h1>
+<div align="center">
 
-<p align="center">
-  🚀 AI | Cloud | Full Stack Developer
-</p>
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2A66,50:1a4db3,100:F49AC2&height=200&section=header&text=Anisha%20Kumari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20Cloud%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=twinkling"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=0A2A66&center=true&vCenter=true&width=750&lines=☁️+Cloud+Computing+Enthusiast;🎓+B.Tech+CSE+Student;💻+Java+%7C+Python+%7C+MERN;🚀+Building+Real+World+Projects" />
-</p>
+<!-- Typing Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3500&pause=1000&color=0A2A66&center=true&vCenter=true&width=750&lines=☁️+Cloud+Computing+Enthusiast;🎓+B.Tech+CSE+Student+%7C+MERN+Stack;💡+Building+AI-Powered+Real+World+Projects;🚀+Java+%7C+Python+%7C+DSA+Every+Day;✨+Code.+Build.+Learn.+Repeat." alt="Typing SVG" />
+
+<br/>
+
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/anisha-kumari-68522426a/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/anisha77suman1980/">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="mailto:anisha77suman1980@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=anishasuman&label=Profile+Views&color=0A2A66&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=3500&pause=1000&color=F49AC2&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Anisha+Kumari!;B.Tech+CS+Student+%7C+Cloud+Explorer+%E2%98%81%EF%B8%8F;Java+Lover+%7C+Code+%26+Coffee+%E2%98%95%EF%B8%8F;Building+Projects+with+Purpose+%F0%9F%92%BC" alt="Typing SVG" /> </p> <h2 align="center">👩‍💻 Focus Mode On</h2> <p align="center"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" alt="Anime Girl Coding"> </p>
 
-## 💖 About Me
-✨ I'm a **B.Tech CSE student** passionate about building real-world applications using  
-☁️ Cloud Computing | 💻 Full Stack Development | 🚀 Problem Solving  
+## 🌸 About Me
 
-- 🎯 Focused on **placements & real-world skills**
-- 🔥 Practicing **DSA daily**
-- ☁️ Exploring **AWS, Docker & Kubernetes**
-- 💡 Love turning ideas into projects
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="320" alt="Coding gif" style="border-radius: 12px;"/>
+
+```yaml
+name: Anisha Kumari
+role: B.Tech CSE Student & Developer
+location: India 🇮🇳
+passions:
+  - ☁️ Cloud Computing (AWS · Docker · Kubernetes)
+  - 💻 Full Stack Dev (MERN Stack)
+  - 🤖 AI/ML Integration
+  - 🧩 DSA & Problem Solving
+currently_building:
+  - Smart Event & Job Portal (AI + Cloud)
+goal: Placement-ready | Real-World Impact
+motto: "Code. Build. Learn. Repeat. 💖"
+```
+
+<br clear="right"/>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Arsenal
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-</p>
+<div align="center">
 
-### 🚀 Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
-</p>
+### 💬 Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
+
+### ⚙️ Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark" />
 
 ### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git&theme=dark" />
+
+</div>
 
 ---
 
-## 📌 Current Focus
-- 🚀 Building **Smart Event & Job Portal (AI + Cloud Project)**
-- 📈 Improving **DSA + System Design**
-- ☁️ Learning **Cloud Deployment & DevOps**
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🔭 Building | 📚 Learning | ⚡ Practicing |
+|:---:|:---:|:---:|
+| Smart Event & Job Portal (AI + Cloud) | Cloud Deployment & DevOps | DSA — Daily Grind 💪 |
+| Full Stack MERN Projects | AWS, Docker, Kubernetes | System Design Concepts |
+| AI-Powered Features | Backend Architecture | Java & Python Patterns |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&theme=radical&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.vercel.app?user=anishasuman&theme=radical&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=anishasuman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F49AC2&icon_color=0A2A66&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F49AC2&text_color=ffffff" height="165"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasuman&layout=compact&theme=radical&hide_border=true" />
-</p>
+<br/>
 
+<img src="https://streak-stats.demolab.com?user=anishasuman&theme=tokyonight&hide_border=true&background=0d1117&ring=F49AC2&fire=F49AC2&currStreakLabel=0A2A66" />
 
-## 🌐 Connect with Me  
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anisha-kumari-68522426a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anishasuman&bg_color=0d1117&color=F49AC2&line=0A2A66&point=ffffff&area=true&hide_border=true" />
 
-  <a href="https://leetcode.com/u/anisha77suman1980/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-
-  <a href="mailto:anisha77suman1980@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  💖 <b>“Code. Build. Learn. Repeat.”</b> 💖
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anishasuman&theme=tokyonight&no-frame=true&margin-w=8&column=7" />
+</div>
+
+---
+
+## 💌 Let's Connect
+
+<div align="center">
+
+> *"The best developers are those who never stop learning — and never stop building."*
+
+<br/>
+
+<a href="https://www.linkedin.com/in/anisha-kumari-68522426a/">
+  <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:anisha77suman1980@gmail.com">
+  <img src="https://img.shields.io/badge/Drop%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F49AC2,50:1a4db3,100:0A2A66&height=120&section=footer"/>
+
+</div>
