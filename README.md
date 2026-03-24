@@ -105,7 +105,7 @@ motto: "Code. Build. Learn. Repeat. 💖"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=anishasuman&theme=tokyonight&no-frame=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anishasuman&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
 ---
