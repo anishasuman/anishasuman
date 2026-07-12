@@ -100,27 +100,27 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
 <div align="center">
 🌟 [Smart Event & Job Portal](#)
 **AI-Powered Matching Engine + Cloud Deployment**
-- 🤖 ML algorithms for intelligent recommendations
-- ☁️ AWS Lambda + DynamoDB backend
-- 🎨 React + Tailwind responsive UI
-- 📊 Real-time analytics dashboard
+  🤖 ML algorithms for intelligent recommendations
+  ☁️ AWS Lambda + DynamoDB backend
+  🎨 React + Tailwind responsive UI
+  📊 Real-time analytics dashboard
   
 [⭐ Check Repo](#) | [🌐 Live Demo](#) | [📝 Blog Post](#)
 
 ### 🌟 [Full-Stack MERN Application](#)
 **Complete Production-Ready App**
-- 💻 MERN Stack with Redux state management
-- 🔐 JWT Authentication & Authorization
-- 📦 Docker containerized deployment
-- 🗄️ MongoDB optimization & indexing
+  💻 MERN Stack with Redux state management
+  🔐 JWT Authentication & Authorization
+  📦 Docker containerized deployment
+  🗄️ MongoDB optimization & indexing
 [⭐ Check Repo](#) | [🌐 Live Demo](#)
 
 ### 🌟 [Cloud Architecture Project](#)
 **Scalable Microservices Infrastructure**
-- 🐳 Docker & Kubernetes orchestration
-- 📡 API Gateway + Load Balancing
-- 🔄 CI/CD Pipeline with GitHub Actions
-- 📈 Auto-scaling configurations
+  🐳 Docker & Kubernetes orchestration
+  📡 API Gateway + Load Balancing
+  🔄 CI/CD Pipeline with GitHub Actions
+  📈 Auto-scaling configurations
 [⭐ Check Repo](#) | [📚 Documentation](#)
  
 </div>
@@ -149,10 +149,10 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
 
 </div>
 
-## 🌟 What Recruiters Should Know
+## 🌟 Curiosity turned into a working product
  
 <div align="center">
-Why You Should Hire Me:
+Still learning. Already building
  
 ✅ **Full-Stack Excellence** — Frontend to Backend to DevOps  
 ✅ **Production-Ready Code** — Not just tutorials, real implementations  
@@ -176,9 +176,13 @@ Why You Should Hire Me:
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:anisha77suman1980@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Drop%20Me%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+ <a href="mailto:anisha77suman1980@gmail.com?subject=Opportunity%20for%20Anisha%20Kumari&body=Hi%20Anisha,%0A%0AI%20reviewed%20your%20portfolio%20and%20would%20like%20to%20discuss%20an%20opportunity.%0A%0ARegards,"
+>
+  <img
+    src="https://img.shields.io/badge/Email-Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
   &nbsp;
   <a href="https://leetcode.com/u/anishasuman19/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
