@@ -34,7 +34,7 @@
 ## <img src="https://media.giphy.com/media/3o7TKU8zVl14IlGFXy/giphy.gif" width="50"> About Me — The Story Behind The Code
  
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding gif"/>
-Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** transforming ideas into reality through code! 
+Hey there! 👋 I'm Anisha Kumari — a passionate B.Tech CSE student transforming ideas into reality through code! 
  
 🎯 **What drives me:**
 - 🚀 Building **scalable, production-ready** applications
@@ -44,15 +44,12 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
 - 🌍 Creating **impact** through technology
 📍 **Based in:** India 🇮🇳 | **Dream:** Making a dent in the universe! 
  
-```yaml
 💻 Developer Type: Full Stack Enthusiast
 🎓 Current Phase: Final Year | Aiming for Dream Roles
 ⚡ Superpower: Taking complex problems → Simple, elegant solutions
 🎨 Style: Clean Code + Great UX + DevOps Magic
-```
  
 <br clear="right"/>
----
  
 ## ⚡ Tech Arsenal — What's In My Toolbox?
  
@@ -98,7 +95,7 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
  
 <div align="center">
 🌟 [Smart Event & Job Portal](#)
-**AI-Powered Matching Engine + Cloud Deployment**
+ AI-Powered Matching Engine + Cloud Deployment
   🤖 ML algorithms for intelligent recommendations
   ☁️ AWS Lambda + DynamoDB backend
   🎨 React + Tailwind responsive UI
@@ -134,8 +131,7 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
 <br/>
 <img src="https://img.shields.io/badge/Open%20To%20Opportunities-%F49AC2?style=for-the-badge&logo=rocket" alt="Opportunities"/>
 </div>
----
- 
+
 ## 💡 Quick Stats
  
 <div align="center">
@@ -167,7 +163,7 @@ Still learning. Already building
 ## 📞 Let's Connect & Build Together!
  
 <div align="center">
-> *"Great developers don't just write code — they solve problems, build communities, and inspire others."*
+> "Great developers don't just write code — they solve problems, build communities, and inspire others."
  
 <br/>
 <div>
@@ -200,15 +196,15 @@ Still learning. Already building
 <div>
   <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100" alt="Celebrate"/>
 </div>
-**⭐ If you find my profile interesting, feel free to star my repos and let's connect!**
+⭐ If you find my profile interesting, feel free to star my repos and let's connect!
  
 </div>
  
 <div align="center">
 ### 🔥 Fun Fact
-*I believe every line of code should tell a story. What's your story?*
+I believe every line of code should tell a story. What's your story?
  
-**Last Updated:** 2024 | Made with ❤️ and ☕ | Always Coding, Always Learning
+Last Updated: 2026 | Made with ❤️ and ☕ | Always Coding, Always Learning
  
 </div>
  
