@@ -185,10 +185,10 @@ Still learning. Already building
 </div>
 <br/>
 🎁 Open To:
-- 💼 **Full-Time Roles** — Backend/Full-Stack/Cloud Engineer
-- 🚀 **Internships** — Fast-track learning in production environments
-- 🤝 **Collaborations** — Open source contributions & side projects
-- 💬 **Mentorship** — Both receiving & giving back to community
+- 💼  Full-Time Roles  — Backend/Full-Stack/Cloud Engineer
+- 🚀  Internships  — Fast-track learning in production environments
+- 🤝  Collaborations  — Open source contributions & side projects
+- 💬  Mentorship  — Both receiving & giving back to community
 <br/>
 <!-- Fun Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=150&section=footer&text=Thanks%20For%20Visiting!%20🚀&fontSize=40&fontColor=ffffff&fontAlignY=75&animation=twinkling"/>
@@ -201,7 +201,7 @@ Still learning. Already building
 </div>
  
 <div align="center">
-### 🔥 Fun Fact
+   🔥 Fun Fact
 I believe every line of code should tell a story. What's your story?
  
 Last Updated: 2026 | Made with ❤️ and ☕ | Always Coding, Always Learning
