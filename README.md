@@ -30,8 +30,7 @@
   </a>
 </div>
 </div>
----
- 
+
 ## <img src="https://media.giphy.com/media/3o7TKU8zVl14IlGFXy/giphy.gif" width="50"> About Me — The Story Behind The Code
  
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding gif"/>
