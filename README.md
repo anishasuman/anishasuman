@@ -58,21 +58,20 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
 ## ⚡ Tech Arsenal — What's In My Toolbox?
  
 <div align="center">
-### 🔤 Languages (The Building Blocks)
+🔤 Languages (The Building Blocks)
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,cpp&theme=dark" alt="Languages"/>
-### 🛠️ Frontend Magic
+🛠️ Frontend Magic
 <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,redux&theme=dark" alt="Frontend"/>
-### 🖥️ Backend Power
+🖥️ Backend Power
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase&theme=dark" alt="Backend"/>
-### ☁️ Cloud & DevOps Mastery
+☁️ Cloud & DevOps Mastery
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github&theme=dark" alt="Cloud"/>
-### 🤖 AI/ML Tools
+🤖 AI/ML Tools
 <img src="https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </div>
----
- 
+
 ## 🎯 Current Mission Control
  
 <div align="center">
@@ -84,8 +83,7 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
 | 💎 Production Deployment | 🎓 Backend Architecture | 🔐 Security Best Practices |
  
 </div>
----
- 
+
 ## 📊 GitHub Performance Dashboard
  
 <div align="center">
@@ -96,12 +94,11 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishasuman&bg_color=0d1117&color=FF6B6B&line=4ECDC4&point=FFA07A&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
----
- 
+
 ## 🚀 Featured Projects (Portfolio Highlights)
  
 <div align="center">
-### 🌟 [Smart Event & Job Portal](#)
+🌟 [Smart Event & Job Portal](#)
 **AI-Powered Matching Engine + Cloud Deployment**
 - 🤖 ML algorithms for intelligent recommendations
 - ☁️ AWS Lambda + DynamoDB backend
@@ -109,9 +106,7 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
 - 📊 Real-time analytics dashboard
   
 [⭐ Check Repo](#) | [🌐 Live Demo](#) | [📝 Blog Post](#)
- 
----
- 
+
 ### 🌟 [Full-Stack MERN Application](#)
 **Complete Production-Ready App**
 - 💻 MERN Stack with Redux state management
@@ -119,9 +114,7 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
 - 📦 Docker containerized deployment
 - 🗄️ MongoDB optimization & indexing
 [⭐ Check Repo](#) | [🌐 Live Demo](#)
- 
----
- 
+
 ### 🌟 [Cloud Architecture Project](#)
 **Scalable Microservices Infrastructure**
 - 🐳 Docker & Kubernetes orchestration
@@ -131,8 +124,7 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
 [⭐ Check Repo](#) | [📚 Documentation](#)
  
 </div>
----
- 
+
 ## 🏆 Achievements & Badges
  
 <div align="center">
@@ -148,22 +140,19 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
 ## 💡 Quick Stats
  
 <div align="center">
-```
 🎯 GitHub Repositories      →  15+ Active Projects
 💻 Lines of Code Written    →  50,000+ 
 ⭐ Repository Stars         →  Growing Every Day
 🔥 Current Streak           →  Consistency is Key!
 📚 DSA Problems Solved      →  1000+
 🚀 Projects Deployed        →  8+ Live Applications
-```
- 
+
 </div>
----
- 
+
 ## 🌟 What Recruiters Should Know
  
 <div align="center">
-### Why You Should Hire Me:
+Why You Should Hire Me:
  
 ✅ **Full-Stack Excellence** — Frontend to Backend to DevOps  
 ✅ **Production-Ready Code** — Not just tutorials, real implementations  
@@ -175,8 +164,7 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
 ✅ **Consistent Grinder** — Daily commits, daily learning  
  
 </div>
----
- 
+
 ## 📞 Let's Connect & Build Together!
  
 <div align="center">
@@ -197,7 +185,7 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
   </a>
 </div>
 <br/>
-### 🎁 Open To:
+🎁 Open To:
 - 💼 **Full-Time Roles** — Backend/Full-Stack/Cloud Engineer
 - 🚀 **Internships** — Fast-track learning in production environments
 - 🤝 **Collaborations** — Open source contributions & side projects
@@ -212,7 +200,6 @@ Hey there! 👋 I'm **Anisha Kumari** — a passionate **B.Tech CSE student** tr
 **⭐ If you find my profile interesting, feel free to star my repos and let's connect!**
  
 </div>
----
  
 <div align="center">
 ### 🔥 Fun Fact
