@@ -25,8 +25,9 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-Learn%20With%20Me-%232F8D46.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46&color=FF6B6B"/>
   </a>
   &nbsp;
-  <a href="mailto:anisha77suman1980@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Message%20Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=FF6B6B"/>
+  <a href="mailto:anisha77suman1980@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Drop%20Me%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
   </a>
 </div>
 </div>
